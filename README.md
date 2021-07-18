@@ -1,6 +1,6 @@
-# 📚 CS STUDY PLAN 📚
+# 📚 Computer Science (CS) 📚
 
-### 🐭 컴퓨터-구조
+### 🐭 컴퓨터 구조
 |No.|Content|
 | ------ | ------ |
 |1| [ 컴퓨터 구조 기초 ](컴퓨터구조/1_구조.md) |
