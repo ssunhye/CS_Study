@@ -11,3 +11,16 @@
 |6| [ ARM 프로세서 ](컴퓨터구조/6_ARM프로세서.md) |
 |7| [ Questions ](컴퓨터구조/Questions.md) |
 ---
+
+### 🐭 Database
+|No.|Content|
+| ------ | ------ |
+|1| 키(Key) 정리
+|2| SQL - JOIN
+|3| SQL Injection
+|4| SQL vs NoSQL
+|5| 이상(Anomaly)
+|6| 인덱스(INDEX)
+|7| 트랜잭션(Transaction)
+|8| 트랜잭션 격리 수준(Transaction Isolation Level)
+|9| 레디스(Redis)
