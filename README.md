@@ -16,12 +16,12 @@
 |No.|Content|
 | ------ | ------ |
 |1| [키(Key) 정리](Database/1_Key.md) |
-|2| [JOIN](Database/2_JOIN.md) |
+|2| [JOIN](Database/2_Join.md) |
 |3| [Injection](Database/3_Injection.md) |
 |4| [SQL vs NoSQL](Database/4_SQL-NoSQL.md) |
 |5| [이상(Anomaly)](Database/5_Anomaly.md) |
 |6| [인덱스(INDEX)](Database/6_INDEX.md) |
 |7| [트랜잭션(Transaction)](Database/7_Transaction.md) |
-|8| [트랜잭션 격리 수준(Transaction Isolation Level)](Database/8_트랜잭션격리수준.md) |
+|8| [트랜잭션 격리 수준(Isolation Level)](Database/8_트랜잭션격리수준.md) |
 |9| [레디스(Redis)](Database/9_Redis.md) |
 ---
